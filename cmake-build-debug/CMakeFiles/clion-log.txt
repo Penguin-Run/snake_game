@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Ivan/CLionProjects/snake_game
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Ivan/CLionProjects/snake_game/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/Ivan/CLionProjects/snake_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Ivan/CLionProjects/snake_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ivan/CLionProjects/snake_game/cmake-build-debug/CMakeFiles/snake_game.dir

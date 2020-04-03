@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ivan/CLionProjects/snake_game/include.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+string
+-
+include.h
+/Users/Ivan/CLionProjects/snake_game/include.h
+time.h
+-
+
+/Users/Ivan/CLionProjects/snake_game/include.h
+vector
+-
+
